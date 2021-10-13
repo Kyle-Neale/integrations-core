@@ -19,6 +19,7 @@ EXPECTED_CONTAINER_METRICS = [
     'ecs.fargate.io.bytes.read',
     'ecs.fargate.cpu.user',
     'ecs.fargate.cpu.system',
+    'ecs.fargate.cpu.usage',
     'ecs.fargate.cpu.percent',
     'ecs.fargate.mem.cache',
     'ecs.fargate.mem.active_file',
